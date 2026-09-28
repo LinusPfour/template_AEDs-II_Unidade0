@@ -36,3 +36,9 @@
 **/*.exe
 
 desktop.ini
+
+# Saídas locais de compilação e inspeção
+/bin/
+/tmp/
+**/.DS_Store
+**/__MACOSX/
